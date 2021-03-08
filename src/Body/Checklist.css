@@ -1,0 +1,44 @@
+.align {
+    align-items: center;
+}
+
+.checklist-img{
+    width: 55vh;
+    height: 50vh;
+}
+
+.checklist-div p{
+    float: left;
+}
+
+.chk-1{
+    float:left;
+}
+
+.chk-2{
+    float:left;
+}
+
+.chk{
+    margin:auto;
+    width: 50%;
+}
+
+/* .checklist-div img {
+    width: 50%;
+    height: 50%;
+}
+
+.checklist-div p {
+    float: left;
+}
+
+.checklist-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checklist {
+    float: left;
+} */

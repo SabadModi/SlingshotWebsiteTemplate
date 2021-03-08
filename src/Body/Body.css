@@ -1,0 +1,94 @@
+body{
+    width: 100%;
+    max-width: 100%;
+}
+
+.align{
+    align-items: center;
+}
+
+.typist-1{
+    color: orange;
+}
+
+.typist-2{
+    color: rgb(52, 202, 202);
+}
+
+.intro-1{
+    color:rgb(69, 245, 38)
+}
+
+.intro-2{
+    color: rgb(235, 27, 200)
+}
+
+.intro-3{
+    color: rgb(235, 67, 61)
+}
+
+.apply-now{
+    border: 1px solid rgb(69, 245, 38);
+    border-radius: 20px;
+    padding: 10px;
+    color: rgb(69, 245, 38);
+}
+
+.apply-now:hover{
+    border: 1px solid rgb(69, 245, 38);
+    background-color: rgb(69, 245, 38);
+    color:white;
+}
+
+.slingshot-1{
+    border: 1px solid rgb(29, 54, 165);
+    background-color: rgb(29, 54, 165);
+    margin-left:5vw;
+    margin-bottom: 20px;
+    width: 20vw;
+    border-radius: 15px;
+    padding:20px;
+}
+
+.slingshot-1_icon{
+    border-radius: 10px;
+    width: 5vw;
+}
+
+.slingshot-1_div{
+    box-shadow: 2px 2px 2px 0px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sl-2{
+    margin-left: 20px;
+}
+
+
+.teach-checklist{
+    margin-top: 100vh;
+    margin-left: 5vw;
+    /* padding: 50px; */
+}
+
+.img-start{
+    width:40vw;
+    height:90vh;
+    margin-right: 0px;
+}
+
+
+.slingshot{
+    /* margin-bottom: 500px; */
+}
+
+/* Meet The Team */
+
+.meet-the-team{
+    margin-top: 100vh;
+    width: 250px;
+    height: 500px;
+    margin-left: 40px;
+}
